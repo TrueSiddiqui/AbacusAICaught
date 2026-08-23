@@ -29,11 +29,12 @@ This is a **community research project**. Anyone can:
 
 ## 📜 License & Authorship
 
-This work is licensed under **[Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE)**.
+This work is licensed under **[Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](LICENSE)**.
 
 - ✅ You are free to share, adapt, and build upon this research.
 - ⚠️ **You MUST credit the original author, TrueSiddiqui.**
 - 🚫 The original authorship may **never be replaced or removed.**
+- 💰 **No one may make money from this research** — commercial use is strictly prohibited.
 
 This remains **TrueSiddiqui's research**. Contributors add to it — they never take its origin.
 
