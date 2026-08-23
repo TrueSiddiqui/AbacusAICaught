@@ -34,7 +34,8 @@ This work is licensed under **[Creative Commons Attribution-NonCommercial 4.0 (C
 - ✅ You are free to share, adapt, and build upon this research.
 - ⚠️ **You MUST credit the original author, TrueSiddiqui.**
 - 🚫 The original authorship may **never be replaced or removed.**
-- 💰 **No one may make money from this research** — commercial use is strictly prohibited.
+- 💰 **No one may make money from this research** — monetization is strictly prohibited.
+- 🏢 **Companies & platforms may use it** — they simply may not profit from it.
 
 This remains **TrueSiddiqui's research**. Contributors add to it — they never take its origin.
 

@@ -41,7 +41,7 @@ The maintainer will review and merge valuable contributions.
 ## Ground Rules
 
 1. **Respect original authorship** — TrueSiddiqui remains the research originator.
-2. **No commercial use** — no one may sell or make money from this research or anything derived from it.
+2. **No monetization** — no one may sell or make money from this research or anything derived from it. Companies and platforms may use it, but may not profit from it.
 3. **Cite your sources** — back up new claims with references.
 4. **Be constructive** — this is collaborative research building.
 5. **Quality over quantity** — meaningful additions are valued.
